@@ -1,0 +1,16 @@
+{
+    "name": "hg/phpframework",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Hg\\Phpframework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hg",
+            "email": "hgsal@hotmail.com"
+        }
+    ],
+    "require": {}
+}
